@@ -55,7 +55,7 @@ http://lb.homeiptv.org/lb0/RTG_HD/video.m3u8
 http://lb.homeiptv.org/lb0/HDL/video.m3u8
 #EXTINF:-1 ,Оружие
 http://lb.homeiptv.org/lb0/Oruzhie/video.m3u8
-#EXTINF:-1 ,Наука
+#EXTINF:-1 ,Наука 2.0
 http://lb.homeiptv.org/lb0/NAUKA/video.m3u8
 #EXTINF:-1 ,История
 http://lb.homeiptv.org/lb0/Istoriya/video.m3u8
