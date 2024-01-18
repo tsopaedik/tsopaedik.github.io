@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://92.53.64.197/xmltv/xmltv.xml"?token=A9JzEETTau0Ee3
+#EXTM3U 
 
 #EXTINF:-1,Первый HD
 http://92.53.64.197:5050/Perviy_Kanal_HD/video.m3u8?token=A9JzEETTau0Ee3
@@ -18,14 +18,6 @@ http://92.53.64.197:5050/TNT_HD/video.m3u8?token=A9JzEETTau0Ee3
 http://92.53.64.197:5050/sts_hd/video.m3u8?token=A9JzEETTau0Ee3
 #EXTINF:-1,ТВ3 HD
 http://92.53.64.197:5050/tv3_hd/video.m3u8?token=A9JzEETTau0Ee3
-#EXTINF:-1,ФАНТАСТИКА
-http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=A9JzEETTau0Ee3
-#EXTINF:-1,УЖАСТИК HD
-http://92.53.64.197:5050/IPTVPLAYUZHASTIK.tv/video.m3u8?token=A9JzEETTau0Ee3
-#EXTINF:-1,ПАМЯТЬ HD
-http://92.53.64.197:5050/IPTVPLAYPAMYAT.tv/video.m3u8?token=A9JzEETTau0Ee3
-#EXTINF:-1,PROMO HD
-http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=A9JzEETTau0Ee3
 #EXTINF:-1,Дом Кино
 http://92.53.64.197:5050/dom_kino/video.m3u8?token=A9JzEETTau0Ee3
 #EXTINF:-1,Дом Кино Премиум HD
