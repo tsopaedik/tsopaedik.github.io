@@ -18,7 +18,7 @@ http://92.53.64.197:5050/TNT_HD/video.m3u8?token=A9JzEETTau0Ee3
 http://92.53.64.197:5050/sts_hd/video.m3u8?token=A9JzEETTau0Ee3
 #EXTINF:-1,ТВ3 HD
 http://92.53.64.197:5050/tv3_hd/video.m3u8?token=A9JzEETTau0Ee3
-#EXTINF:-1,IPTV Play Fantastica
+#EXTINF:-1,Fantastica
 http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=A9JzEETTau0Ee3
 #EXTINF:-1,UZHASTIK
 http://92.53.64.197:5050/IPTVPLAYUZHASTIK.tv/video.m3u8?token=A9JzEETTau0Ee3
