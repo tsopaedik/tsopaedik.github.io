@@ -18,13 +18,13 @@ http://92.53.64.197:5050/TNT_HD/video.m3u8?token=A9JzEETTau0Ee3
 http://92.53.64.197:5050/sts_hd/video.m3u8?token=A9JzEETTau0Ee3
 #EXTINF:-1,ТВ3 HD
 http://92.53.64.197:5050/tv3_hd/video.m3u8?token=A9JzEETTau0Ee3
-#EXTINF:-1,IPTVPLAY ФАНТАСТИКА HD,tvg-id="IPTVPLAYFANTASTIKA.tv" tvg-logo="https://i.ibb.co/NVVDdN3/Fantastika1-HD.png"
+#EXTINF:-1,IPTVPLAY ФАНТАСТИКА HD tvg-id="IPTVPLAYFANTASTIKA.tv" tvg-logo="https://i.ibb.co/NVVDdN3/Fantastika1-HD.png"
 http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=A9JzEETTau0Ee3
-#EXTINF:-1,IPTVPLAY УЖАСТИК HD,tvg-id="IPTVPLAYUZHASTIK.tv" tvg-logo="https://i.ibb.co/nCPyRfZ/Uzhastik1-HD.png"
+#EXTINF:-1,IPTVPLAY УЖАСТИК HD tvg-id="IPTVPLAYUZHASTIK.tv" tvg-logo="https://i.ibb.co/nCPyRfZ/Uzhastik1-HD.png"
 http://92.53.64.197:5050/IPTVPLAYUZHASTIK.tv/video.m3u8?token=A9JzEETTau0Ee3
-#EXTINF:-1,IPTVPLAY ПАМЯТЬ HD,tvg-id="IPTVPLAYPAMYAT.tv" tvg-logo="https://i.ibb.co/ZcKcdM9/Pamyat1-HD.png"
+#EXTINF:-1,IPTVPLAY ПАМЯТЬ HD tvg-id="IPTVPLAYPAMYAT.tv" tvg-logo="https://i.ibb.co/ZcKcdM9/Pamyat1-HD.png"
 http://92.53.64.197:5050/IPTVPLAYPAMYAT.tv/video.m3u8?token=A9JzEETTau0Ee3
-#EXTINF:-1,IPTVPLAY PROMO HD,tvg-id="IPTVPLAYPROMO.tv" tvg-logo="https://i.ibb.co/SvHyZxQ/PromoHD.png"
+#EXTINF:-1,IPTVPLAY PROMO HD tvg-id="IPTVPLAYPROMO.tv" tvg-logo="https://i.ibb.co/SvHyZxQ/PromoHD.png"
 http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=A9JzEETTau0Ee3
 #EXTINF:-1,Дом Кино
 http://92.53.64.197:5050/dom_kino/video.m3u8?token=A9JzEETTau0Ee3
