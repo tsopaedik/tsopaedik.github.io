@@ -24,8 +24,6 @@ http://92.53.64.197:5050/tainy_hd/video.m3u8?token=A9JzEETTau0Ee3
 http://92.53.64.197:5050/dom_kino/video.m3u8?token=A9JzEETTau0Ee3
 #EXTINF:-1,Дом Кино Премиум HD
 http://92.53.64.197:5050/dom_kino_premium_hd/video.m3u8?token=A9JzEETTau0Ee3
-#EXTINF:-1,Русский Бестселлер
-http://92.53.64.197:5050/russkiy_bestseller/video.m3u8?token=A9JzEETTau0Ee3
 #EXTINF:-1,Матч ТВ HD
 http://92.53.64.197:5050/match_tv_hd/video.m3u8?token=A9JzEETTau0Ee3
 #EXTINF:-1,Окко Спорт
