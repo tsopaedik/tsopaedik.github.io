@@ -1,6 +1,8 @@
-#EXTM3U
-#EXTINF:-1,ПЕРВЫЙ КАНАЛ HD
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1,ПЕРВЫЙ HD
 http://185.37.150.40:8092/Pervi_HD/index.m3u8
+#EXTINF:-1,Первый HD tvg-logo="http://view.my-tv.biz/img/1hd.png",Первый HD
+https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1,РЕН ТВ HD
 http://185.37.150.40:8092/RenTV_HD/playlist.m3u8
 #EXTINF:-1,НТВ HD
@@ -11,6 +13,8 @@ http://185.37.150.40:8092/Rossiya_HD/playlist.m3u8
 http://185.37.150.40:8092/Zvezda/playlist.m3u8
 #EXTINF:-1,РОССИЯ К
 http://185.37.150.40:8092/Rus_kultura/playlist.m3u8
+#EXTINF:-1,ТНТ HD tvg-logo="http://158.101.214.187:8080/logos/tnt-hd-ru.png",ТНТ HD
+https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 #EXTINF:-1,ТНТ4
 http://185.37.150.40:8092/THT4/playlist.m3u8
 #EXTINF:-1,СТС HD
