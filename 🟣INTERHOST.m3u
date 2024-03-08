@@ -1,0 +1,70 @@
+#EXTM3U
+#EXTINF:-1,ПЕРВЫЙ КАНАЛ HD
+http://185.37.150.40:8092/Pervi_HD/index.m3u8
+#EXTINF:-1,РЕН ТВ HD
+http://185.37.150.40:8092/RenTV_HD/playlist.m3u8
+#EXTINF:-1,НТВ HD
+http://185.37.150.40:8092/HTB_HD/playlist.m3u8
+#EXTINF:-1,Россия 1 HD
+http://185.37.150.40:8092/Rossiya_HD/playlist.m3u8
+#EXTINF:-1,ЗВЕЗДА
+http://185.37.150.40:8092/Zvezda/playlist.m3u8
+#EXTINF:-1,РОССИЯ К
+http://185.37.150.40:8092/Rus_kultura/playlist.m3u8
+#EXTINF:-1,ТНТ4
+http://185.37.150.40:8092/THT4/playlist.m3u8
+#EXTINF:-1,СТС HD
+http://185.37.150.40:8092/CTC_HD/playlist.m3u8
+#EXTINF:-1,ТВ3
+http://185.37.150.40:8092/tv_3/playlist.m3u8
+#EXTINF:-1,Euronews
+http://185.37.150.40:8092/Euronews/playlist.m3u8
+#EXTINF:-1,Travel+Adventure
+http://185.37.150.40:8092/Travel_Adventure_HD/playlist.m3u8
+#EXTINF:-1,ИСТОРИЯ
+http://185.37.150.40:8092/Istoriya/playlist.m3u8
+#EXTINF:-1,Ocean TV
+http://185.37.150.40:8092/Okean/playlist.m3u8
+#EXTINF:-1,RTG HD
+http://185.37.150.40:8092/RTG_HD/playlist.m3u8
+#EXTINF:-1,Galaxy TV
+http://185.37.150.40:8092/Galaxy/playlist.m3u8
+#EXTINF:-1,ПЕРВЫЙ КОСМИЧЕСКИЙ HD
+http://185.37.150.40:8092/EurekaHD/playlist.m3u8
+#EXTINF:-1,TV XXI
+http://185.37.150.40:8092/tv21/playlist.m3u8
+#EXTINF:-1,НСТ
+http://185.37.150.40:8092/HCT/playlist.m3u8
+#EXTINF:-1,ДОМ КИНО
+http://185.37.150.40:8092/Dom_kino/playlist.m3u8
+#EXTINF:-1,КИНОХИТ
+http://185.37.150.40:8092/kinohit/playlist.m3u8
+#EXTINF:-1,РОДНОЕ КИНО
+http://185.37.150.40:8092/Nashe_kino/playlist.m3u8
+#EXTINF:-1,КИНОСЕРИЯ
+http://185.37.150.40:8092/Mnogo_tv/playlist.m3u8
+#EXTINF:-1,КИНОКОМЕДИЯ
+http://185.37.150.40:8092/Komediya/playlist.m3u8
+#EXTINF:-1,МУЖСКОЕ КИНО
+http://185.37.150.40:8092/Muj_kino/playlist.m3u8
+#EXTINF:-1,КИНОМИКС
+http://185.37.150.40:8092/kino_plus/playlist.m3u8
+#EXTINF:-1,РУССКИЙ БЕСТСЕЛЛЕР
+http://185.37.150.40:8092/russkiy_b/playlist.m3u8
+#EXTINF:-1,КИНОПОКАЗ HD
+http://185.37.150.40:8092/Kinopokaz/playlist.m3u8
+#EXTINF:-1,ИЛЛЮЗИОН+
+http://185.37.150.40:8092/Illyuzion/playlist.m3u8
+#EXTINF:-1,ЕВРОКИНО
+http://185.37.150.40:8092/Evrokino/playlist.m3u8
+#EXTINF:-1,Суббота
+http://185.37.150.40:8092/Super/playlist.m3u8
+#EXTINF:-1,ВРЕМЯ
+http://185.37.150.40:8092/Vremya/playlist.m3u8
+#EXTINF:-1,ПЕРЕЦ
+http://185.37.150.40:8092/Perec/playlist.m3u8
+#EXTINF:-1,КВН ТВ
+http://185.37.150.40:8092/kvn/playlist.m3u8
+#EXTINF:-1,Сарафан
+http://185.37.150.40:8092/sarafan/playlist.m3u8
+
