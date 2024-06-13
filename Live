@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 
-#EXTINF:-1,Первый HD🟢 tvg-logo="/storage/emulated/0/TiviMate/1hd.png",Первый HD 
+#EXTINF:-1,Первый HD🟢 tvg-logo="/storage/emulated/0/TiviMate/1hd.png",Первый HD 🟢
 http://yarhero.edmonst.net/iptv/C8CGEPDET97QLG/7253/index.m3u8
 #EXTINF:-1,Первый HD🔵 tvg-logo="/storage/emulated/0/TiviMate/1hd.png",Первый HD 🔵
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
