@@ -31,7 +31,7 @@ https://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
 #EXTINF:-1,МИР HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,Ералаш
-https://ipv4.bozztv.com/dvrfl07/ushba8/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,Sunset Space tvg-logo="https://i.postimg.cc/mrB527vG/1.png" ,Sunset Space
 https://stream.sunset-media.ru:443/Free/Free/3.m3u8
 
