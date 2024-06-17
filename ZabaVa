@@ -1,39 +1,39 @@
 #EXTM3U
-#EXTINF:-1,Первый канал 🕖  catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" tvg-id="pervy",tvg-logo="http://158.101.214.187:8080/logos/perviy.png",Первый 🕖
+#EXTINF:-1,Первый канал   catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" tvg-id="pervy",tvg-logo="http://158.101.214.187:8080/logos/perviy.png",Первый 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2
-#EXTINF:-1 , catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" tvg-id="rossia1",Россия 1 🕖
+#EXTINF:-1 , catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" tvg-id="rossia1",Россия 1 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2
-#EXTINF:-1 , catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" tvg-id="rossia-24",Россия 24 🕖
+#EXTINF:-1 , catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" tvg-id="rossia-24",Россия 24 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=2
-#EXTINF:-1 ,catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" tvg-id="kultura",Россия К 🕖
+#EXTINF:-1 ,catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" tvg-id="kultura",Россия К 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2
-#EXTINF:-1 , catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" tvg-id="ntv",tvg-logo="http://epg.it999.ru/img2/162.png",НТВ 🕖
+#EXTINF:-1 , catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" tvg-id="ntv",tvg-logo="http://epg.it999.ru/img2/162.png",НТВ 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2
-#EXTINF:-1 , catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" tvg-id="rentv",tvg-logo="http://158.101.214.187:8080/logos/rentv.png",Рен ТВ 🕖
+#EXTINF:-1 , catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" tvg-id="rentv",tvg-logo="http://158.101.214.187:8080/logos/rentv.png",Рен ТВ 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2
-#EXTINF:-1 , catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" tvg-id="zvezda",Звезда 🕖
+#EXTINF:-1 , catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" tvg-id="zvezda",Звезда 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2
-#EXTINF:-1 , catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" tvg-id="tnt",ТНТ 🕖
+#EXTINF:-1 , catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" tvg-id="tnt",ТНТ 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2
-#EXTINF:-1 , catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" tvg-id="tnt4",ТНТ4 🕖
+#EXTINF:-1 , catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" tvg-id="tnt4",ТНТ4 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2
-#EXTINF:-1 , catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" tvg-id="sts",СТС 🕖
+#EXTINF:-1 , catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" tvg-id="sts",СТС 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2
-#EXTINF:-1 , catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" tvg-id="sts-love",СТС Love 🕖
+#EXTINF:-1 , catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" tvg-id="sts-love",СТС Love 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=2
-#EXTINF:-1 , catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" tvg-id="tv3-ru",ТВ3 🕖
+#EXTINF:-1 , catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" tvg-id="tv3-ru",ТВ3 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2
-#EXTINF:-1 , catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" tvg-id="tvcentr",ТВ Центр 🕖
+#EXTINF:-1 , catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" tvg-id="tvcentr",ТВ Центр 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2
-#EXTINF:-1 , catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" tvg-id="5kanal-ru",Пятый канал 🕖
+#EXTINF:-1 , catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" tvg-id="5kanal-ru",Пятый канал 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2
-#EXTINF:-1 , catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" tvg-id="piatnica",Пятница 🕖
+#EXTINF:-1 , catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" tvg-id="piatnica",Пятница 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2
-#EXTINF:-1 , catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" tvg-id="mir",Мир 🕖
+#EXTINF:-1 , catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" tvg-id="mir",Мир 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8?version=2
-#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матч! TV 🕖
+#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матч! TV 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
-#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.it999.ru/img/2743.png" ,Ultra HD Cinema 🕖
+#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.it999.ru/img/2743.png" ,Ultra HD Cinema 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
-#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.it999.ru/img/2803.png" ,Русский Экстрим UHD 4K 🕖
+#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.it999.ru/img/2803.png" ,Русский Экстрим UHD 4K 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
