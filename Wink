@@ -34,7 +34,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
 
 #EXTINF:-1,catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",tvg-logo="http://158.101.214.187:8080/logos/rentv.png",РЕН ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:-1,catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",РЕН ТВ (+2)
+#EXTINF:-1,catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",tvg-logo="http://epg.it999.ru/img2/2037.png",РЕН ТВ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
 #EXTINF:-1,catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Рен ТВ (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
