@@ -10,7 +10,7 @@ https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
 #EXTINF:-1,Первый Европа
 https://streaming.goodstream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKh7PXPT/image-19.png" , Первый.Всемирная сеть
+#EXTINF:-1,Первый СНГ tvg-logo="https://i.postimg.cc/ZKh7PXPT/image-19.png" ,Первый СНГ
 http://sc.id-tv.kz/1KanalVsemSet_36_37.m3u8
 #EXTINF:-1,Россия 1 HD tvg-logo="http://epg.it999.ru/img2/984.png", Россия 1 HD
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
