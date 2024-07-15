@@ -22,6 +22,8 @@ https://livetv.mylifeisgood.net.ru/channels/ntv.m3u8
 https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1,РЕН ТВ HD
 https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
+#EXTINF:-1,РЕН ТВ HD
+http://ott.server-iptv.live/106/video.m3u8?token=M4f082ab4c
 #EXTINF:-1,Звезда
 https://livetv.mylifeisgood.net.ru/channels/zvezda.m3u8
 #EXTINF:-1,Известия
