@@ -4,12 +4,12 @@
 http://yarhero.edmonst.net/iptv/C8CGEPDET97QLG/7253/index.m3u8
 #EXTINF:-1,Первый HD🔵 tvg-logo="https://karnei4.github.io/convert/perviy_hd.png",Первый HD 🔵
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
+#EXTINF:-1,Первый HD uz tvg-logo="https://karnei4.github.io/convert/perviy_hd.png",Первый HD uz
+https://st1.uzdigital.tv/Perviy_KanalHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Первый HD🔵 tvg-logo="https://karnei4.github.io/convert/perviy_hd.png",Первый HD 🔵
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1,Первый HD🟠 tvg-logo="https://karnei4.github.io/convert/perviy_hd.png",Первый HD 🟠
 https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
-#EXTINF:-1,Первый HD uz tvg-logo="https://karnei4.github.io/convert/perviy_hd.png",Первый HD uz
-https://st1.uzdigital.tv/Perviy_KanalHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Первый Европа
 https://streaming.goodstream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1,Первый СНГ tvg-logo="https://i.postimg.cc/ZKh7PXPT/image-19.png" ,Первый СНГ
