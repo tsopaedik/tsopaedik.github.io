@@ -6,6 +6,8 @@ http://yarhero.edmonst.net/iptv/C8CGEPDET97QLG/7253/index.m3u8
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
 #EXTINF:-1,Первый HD uz tvg-logo="https://karnei4.github.io/convert/perviy_hd.png",Первый HD uz
 https://st1.uzdigital.tv/Perviy_KanalHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Первый HD rutube tvg-logo="https://karnei4.github.io/convert/perviy_hd.png",Первый HD rutube
+https://salam-2-6.rutube.ru/dive/river-3-318.rutube.ru/rdH9d3TegjIY1hzxecZJiQ/stream/genetta-332.m9.rutube.ru/zddNrTlml_50vKI50yNe3Q/1722630083/c58f502c7bb34a8fcdd976b221fca292/1080p_stream.m3u8
 #EXTINF:-1,Первый HD🔵 tvg-logo="https://karnei4.github.io/convert/perviy_hd.png",Первый HD 🔵
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1,Первый HD🟠 tvg-logo="https://karnei4.github.io/convert/perviy_hd.png",Первый HD 🟠
