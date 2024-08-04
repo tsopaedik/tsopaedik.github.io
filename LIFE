@@ -42,10 +42,6 @@ https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
 https://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
 #EXTINF:-1,МИР HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1,Дом Кино
-https://streaming.goodstream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1,Победа
-https://streaming.thestream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1,Мосфильм. Золотая коллекция
 rtmp://5.182.229.90//7347
 #EXTINF:-1,Gags Network
