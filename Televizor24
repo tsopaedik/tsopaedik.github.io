@@ -27,6 +27,10 @@ https://streaming.thestream.cyou/live/296-req_offset_28000000-req_window_0-1k_v5
 #EXTINF:-1,Победа
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.thestream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1,Любимое кино
+https://hls.bemtv.t62a.com/hls2/tWbTo3DV/1723618655/QnkJOCEsSv9yXCh4RTnfMQ/stream424/stream0.m3u8
+#EXTINF:-1,TV1000 русское кино
+https://hls.bemtv.t62a.com/hls2/tWbTo3DV/1723618655/DYpdbLP6UTstzPLiobm6ug/stream423/stream0.m3u8
 #EXTINF:-1,Дом Кино
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.goodstream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
