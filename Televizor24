@@ -19,6 +19,8 @@ https://streaming.thestream.cyou/live/748-req_offset_28000000-req_window_0-1k_v5
 #EXTINF:-1,ТНТ
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.thestream.cyou/live/38-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1,ТНТ 4
+https://hls.bemtv.t62a.com/hls2/tWbTo3DV/1723618655/jMhyRVc9YGwPYKed1LHybw/stream722/stream0.m3u8
 #EXTINF:-1,СТС
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.thestream.cyou/live/296-req_offset_28000000-req_window_0-1k_v5.m3u8
@@ -34,6 +36,4 @@ https://st1.uzdigital.tv/Tochka_Otriva/tracks-v1a1/mono.m3u8
 https://st1.uzdigital.tv/Tehno_24/tracks-v1a1/mono.m3u8
 #EXTINF:-1,VIP Premiere HD
 rtmp://185.26.157.3/live//vip_premiere_hd
-#EXTINF:-1,МузТВ
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-https://streaming.thestream.cyou/live/618-req_offset_28000000-req_window_0-3k_v5.m3u8
+
