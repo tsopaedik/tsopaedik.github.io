@@ -32,9 +32,6 @@ rtmp://185.26.157.3/live//vip_premiere_hd
 https://streaming.goodstream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1,Техно 24
 https://st1.uzdigital.tv/Tehno_24/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Авто 24
-https://st1.uzdigital.tv/Avto24/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Kinoshka Kids HD
-https://tv.movielab.pro/9993/index.m3u8?token=a9dbba6b949fece4b023edde2bc1be9da28b7131-e80f701b9393534b736a5d9d0aca2459-1723662241-1723575841
+
 
 
