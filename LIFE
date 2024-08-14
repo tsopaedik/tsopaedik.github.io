@@ -40,12 +40,7 @@ https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
 https://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
 #EXTINF:-1,МИР HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1,Мосфильм. Золотая коллекция
-rtmp://5.182.229.90//7347
-#EXTINF:-1,Gags Network
-rtmp://5.182.229.90//7142
-#EXTINF:-1,Шансон ТВ
-http://91.90.255.235:8000/play/a007/index.m3u8
+
 
 
 
