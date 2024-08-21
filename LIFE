@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 
-#EXTINF:-1,Первый HD🔵 tvg-logo="https://karnei4.github.io/convert/perviy_hd.png",Первый HD 🔵
-https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1,Первый HD🟠 tvg-logo="https://karnei4.github.io/convert/perviy_hd.png",Первый HD 🟠
 https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
 #EXTINF:-1,Первый Европа
@@ -30,8 +28,10 @@ https://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 
-
-
+#EXTINF:-1,Первый🔵 tvg-logo="https://karnei4.github.io/convert/perviy_hd.png",Первый HD 🔵
+https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1,РЕН ТВ
+https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
 
 
 
