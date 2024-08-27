@@ -38,7 +38,8 @@ https://livetv.mylifeisgood.net.ru/channels/russia24.m3u
 https://livetv.mylifeisgood.net.ru/channels/rentv.m3u
 #EXTINF:-1,Звезда.
 https://livetv.mylifeisgood.net.ru/channels/zvezda.m3u
-
+#EXTINF:-1,Первый 🟠 tvg-logo="https://karnei4.github.io/convert/perviy.png",Первый 
+https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u
 
 
 
