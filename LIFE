@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 
-#EXTINF:-1,Первый HD🔵 tvg-logo="https://karnei4.github.io/convert/perviy_hd.png",Первый HD 🟣
+#EXTINF:-1,Первый HD🔵 tvg-logo="https://karnei4.github.io/convert/perviy_hd.png",Первый HD 
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1,Первый HD🟠 tvg-logo="https://karnei4.github.io/convert/perviy_hd.png",Первый HD 🟠
 https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
