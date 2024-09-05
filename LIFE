@@ -14,6 +14,8 @@ https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
 https://livetv.mylifeisgood.net.ru/channels/ntv.m3u8
 #EXTINF:-1,РЕН ТВ HD
 https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
+#EXTINF:-1,РЕН ТВ. tvg-logo="http://epg.it999.ru/img2/18.png",Рен ТВ 
+http://5.153.180.133:8004/play/a04m
 #EXTINF:-1,Звезда HD
 https://livetv.mylifeisgood.net.ru/channels/zvezda.m3u8
 #EXTINF:-1,Известия HD
