@@ -1,0 +1,73 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+
+#EXTINF:-1,Первый канал HD
+http://s83.chas.tv:8081/chas/pervyitv-hq.stream/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://karnei4.github.io/convert/perviy.png",Первый канал
+http://s83.chas.tv:8081/chas/pervyitv.stream/playlist.m3u8
+#EXTINF:-1,НТВ HD
+http://s83.chas.tv:8081/chas/ntvtv-hq.stream/playlist.m3u8
+#EXTINF:-1,tvg-logo="http://epg.it999.ru/img2/162.png",НТВ 
+http://s83.chas.tv:8081/chas/ntvtv.stream/playlist.m3u8
+#EXTINF:-1,Рен ТВ HD
+http://s83.chas.tv:8081/chas/rentv-hq.stream/chunks.m3u8
+#EXTINF:-1,tvg-logo="http://epg.it999.ru/img2/18.png",Рен ТВ 
+http://s83.chas.tv:8081/chas/rentv.stream/chunks.m3u8
+#EXTINF:-1,Россия 24
+http://s83.chas.tv:8081/chas/rossiya24-hq.stream/playlist.m3u8
+#EXTINF:-1,Звезда
+http://s83.chas.tv:8081/chas/zvezda.stream/playlist.m3u8
+#EXTINF:-1,Россия К
+http://s83.chas.tv:8081/chas/rossiyak.stream/playlist.m3u8
+#EXTINF:-1,ТНТ HD
+http://s83.chas.tv:8081/chas/tnttv-hq.stream/playlist.m3u8
+#EXTINF:-1,ТНТ
+http://s83.chas.tv:8081/chas/tnttv.stream/playlist.m3u8
+#EXTINF:-1,ТНТ4 HD
+http://s83.chas.tv:8081/chas/comedytv-hq.stream/playlist.m3u8
+#EXTINF:-1,ТНТ4
+http://s83.chas.tv:8081/chas/fourtv.stream/playlist.m3u8
+#EXTINF:-1,СТС HD
+http://s83.chas.tv:8081/chas/sts-hq.stream/chunks.m3u8
+#EXTINF:-1,СТС
+http://s83.chas.tv:8081/chas/sts.stream/chunks.m3u8
+#EXTINF:-1,ТВ3 HD
+http://s83.chas.tv:8081/chas/tvtri-hq.stream/playlist.m3u8
+#EXTINF:-1,ТВ3
+http://s83.chas.tv:8081/chas/tvtritv.stream/playlist.m3u8
+#EXTINF:-1,Охотник и рыболов
+http://s83.chas.tv:8081/chas/rybalka.stream/playlist.m3u8
+#EXTINF:-1,Охота и рыбалка
+http://s83.chas.tv:8081/chas/ohota.stream/playlist.m3u8
+#EXTINF:-1,Оружие
+http://s83.chas.tv:8081/chas/oruzhie.stream/playlist.m3u8
+#EXTINF:-1,Моя планета
+http://s83.chas.tv:8081/chas/moyaplaneta.stream/playlist.m3u8
+#EXTINF:-1,Суббота HD
+http://s83.chas.tv:8081/chas/supertv-hq.stream/playlist.m3u8
+#EXTINF:-1,Суббота
+http://s83.chas.tv:8081/chas/supertv.stream/playlist.m3u8
+#EXTINF:-1,СТС Love
+http://s83.chas.tv:8081/chas/stslove.stream/playlist.m3u8
+#EXTINF:-1,Соловьев Live
+http://s83.chas.tv:8081/chas/sollive.stream/playlist.m3u8
+#EXTINF:-1,Перец
+http://s83.chas.tv:8081/chas/perec-hq.stream/playlist.m3u8
+#EXTINF:-1,Тайна
+http://s83.chas.tv:8081/chas/taina.stream/playlist.m3u8
+#EXTINF:-1,ОТР HD
+http://s83.chas.tv:8081/chas/otrtv-hq.stream/playlist.m3u8
+#EXTINF:-1,ОТР
+http://s83.chas.tv:8081/chas/otrtv.stream/playlist.m3u8
+#EXTINF:-1,КиноСезон
+http://s83.chas.tv:8081/chas/kinosezon.stream/playlist.m3u8
+#EXTINF:-1,Кинокомедия
+http://s83.chas.tv:8081/chas/komediya.stream/playlist.m3u8
+#EXTINF:-1,Русский иллюзион
+http://s83.chas.tv:8081/chas/rusillyuzion.stream/playlist.m3u8
+#EXTINF:-1,Иллюзион+
+http://s83.chas.tv:8081/chas/illyuzionpl.stream/playlist.m3u8
+#EXTINF:-1,Драйв
+http://s83.chas.tv:8081/chas/drive.stream/playlist.m3u8
+#EXTINF:-1,Дом кино
+http://s83.chas.tv:8081/chas/domkino.stream/playlist.m3u8
+
