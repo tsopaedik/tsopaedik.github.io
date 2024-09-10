@@ -17,7 +17,7 @@ https://livetv.mylifeisgood.net.ru/channels/ntv.m3u8
 #EXTINF:-1,РЕН ТВ HD
 https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
 #EXTINF:-1,РЕН ТВ, tvg-logo="http://epg.it999.ru/img2/18.png",Рен ТВ 
-http://iptv.mega.net.ru:8888/REN_TV_HD/mono.m3u8
+http://iptv.mega.net.ru:8888/REN_TV/mono.m3u8
 #EXTINF:-1,Звезда HD
 https://livetv.mylifeisgood.net.ru/channels/zvezda.m3u8
 #EXTINF:-1,Известия HD
