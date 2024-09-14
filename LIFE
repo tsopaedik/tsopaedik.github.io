@@ -6,7 +6,7 @@ https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
 #EXTINF:-1,Первый канал HD, tvg-logo="https://karnei4.github.io/convert/perviy_hd.png",Первый канал HD
 http://91.224.169.250:5000/c67
-#EXTINF:-1,Первый канал H
+#EXTINF:-1,Первый канал HD
 http://188.190.222.48:8765/1_kanal_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Первый Европа HD
 https://streaming.goodstream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
