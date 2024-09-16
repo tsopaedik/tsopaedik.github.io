@@ -42,10 +42,12 @@ https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
 https://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
 #EXTINF:-1,МИР HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1,Мосфильм.Золотая коллекция
-http://91.224.169.250:5000/c59
-#EXTINF:-1,Кино тв HD
-http://91.224.169.250:5000/c150
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" ,Мосфильм. Золотая коллекция
+http://api.peers.tv/timeshift/mosfilm_zolotaya_kollektsiya_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjY1NTYzOTUsImlhdCI6MTcyNjQ2OTk5NSwiY2lkIjo2LCJ1aWQiOjgyNzkyMzY2MywicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.x-g0_cHpGu11Ph-UDgqUMH3dt6F5EV89UQAueFRb9rY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" ,Cinema
+http://api.peers.tv/timeshift/ipark/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjY1NTYzOTUsImlhdCI6MTcyNjQ2OTk5NSwiY2lkIjo2LCJ1aWQiOjgyNzkyMzY2MywicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.x-g0_cHpGu11Ph-UDgqUMH3dt6F5EV89UQAueFRb9rY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" ,Наука 2.0
+http://api.peers.tv/timeshift/nauka_20/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjY1NTYzOTUsImlhdCI6MTcyNjQ2OTk5NSwiY2lkIjo2LCJ1aWQiOjgyNzkyMzY2MywicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.x-g0_cHpGu11Ph-UDgqUMH3dt6F5EV89UQAueFRb9rY&offset=10
 
 
 
