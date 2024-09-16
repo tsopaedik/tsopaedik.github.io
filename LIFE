@@ -4,10 +4,10 @@
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1,Первый HD🔵 tvg-logo="https://karnei4.github.io/convert/perviy_hd.png",Первый HD 🔵
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
-#EXTINF:-1,Первый HD🟠 tvg-logo="https://karnei4.github.io/convert/perviy_hd.png",Первый HD 🟠
-https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
 #EXTINF:-1,Первый Канал HD
 http://iptv.mega.net.ru:8888/Pervii_Kanal_HD/mono.m3u8
+#EXTINF:-1,Первый HD🟠 tvg-logo="https://karnei4.github.io/convert/perviy_hd.png",Первый HD 🟠
+https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
 #EXTINF:-1,Первый Европа HD
 https://streaming.goodstream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1,Россия 1 HD tvg-logo="http://epg.it999.ru/img2/984.png", Россия 1 HD
@@ -45,13 +45,13 @@ http://api.peers.tv/timeshift/nauka_20/16/playlist.m3u8?token=eyJhbGciOiJIUzI1Ni
 
 
 
-#EXTINF:-1,Первый. tvg-logo="https://karnei4.github.io/convert/perviy.png",Первый 
-https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1,Россия 24.
+#EXTINF:-1, tvg-logo="https://karnei4.github.io/convert/perviy.png",Первый 
+https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
+#EXTINF:-1,Россия 24
 https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
-#EXTINF:-1,РЕН ТВ. tvg-logo="http://epg.it999.ru/img2/18.png",Рен ТВ 
+#EXTINF:-1, tvg-logo="http://epg.it999.ru/img2/18.png",Рен ТВ 
 https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
-#EXTINF:-1,Звезда.
+#EXTINF:-1,Звезда
 https://livetv.mylifeisgood.net.ru/channels/zvezda.m3u8
 
 
