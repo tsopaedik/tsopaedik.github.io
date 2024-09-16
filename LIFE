@@ -6,10 +6,6 @@ https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
 #EXTINF:-1,Первый HD🟠 tvg-logo="https://karnei4.github.io/convert/perviy_hd.png",Первый HD 🟠
 https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
-#EXTINF:-1,Первый канал HD, tvg-logo="https://karnei4.github.io/convert/perviy_hd.png",Первый канал HD
-http://91.224.169.250:5000/c67
-#EXTINF:-1,Первый канал HD
-http://188.190.222.48:8765/1_kanal_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Первый Канал HD
 http://iptv.mega.net.ru:8888/Pervii_Kanal_HD/mono.m3u8
 #EXTINF:-1,Первый Европа HD
@@ -26,8 +22,6 @@ https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
 http://api.peers.tv/timeshift/ren_tv_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjY1NTYzOTUsImlhdCI6MTcyNjQ2OTk5NSwiY2lkIjo2LCJ1aWQiOjgyNzkyMzY2MywicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.x-g0_cHpGu11Ph-UDgqUMH3dt6F5EV89UQAueFRb9rY&offset=10
 #EXTINF:-1,РЕН ТВ, tvg-logo="http://epg.it999.ru/img2/18.png",Рен ТВ 
 http://iptv.mega.net.ru:8888/REN_TV/mono.m3u8
-#EXTINF:-1,РЕН ТВ, tvg-logo="http://epg.it999.ru/img2/18.png",Рен ТВ 
-http://91.224.169.250:5000/c311
 #EXTINF:-1,Звезда HD
 https://livetv.mylifeisgood.net.ru/channels/zvezda.m3u8
 #EXTINF:-1,Известия HD
