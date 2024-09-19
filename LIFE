@@ -21,7 +21,7 @@ https://livetv.mylifeisgood.net.ru/channels/ntv.m3u8
 #EXTINF:-1,РЕН ТВ HD
 https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}"  ,РЕН ТВ HD
-http://api.peers.tv/timeshift/ren_tv_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjY3MjkyODAsImlhdCI6MTcyNjY0Mjg4MCwiY2lkIjo2LCJ1aWQiOjgyOTA4ODgzMCwicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.2WJruBD286LWSs6Zwfo5chl6w63HIq8WESAEjqWDidg&offset=10
+http://api.peers.tv/timeshift/ren_tv_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjY4MTU0NDIsImlhdCI6MTcyNjcyOTA0MiwiY2lkIjo2LCJ1aWQiOjgyOTY4NTk2MywicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.oFt7xDenTMviQMTgjO8Id1_wCaAiPdP3xGWAF9mDf3o&offset=10
 #EXTINF:-1,РЕН ТВ, tvg-logo="http://epg.it999.ru/img2/18.png",Рен ТВ 
 http://iptv.mega.net.ru:8888/REN_TV/mono.m3u8
 #EXTINF:-1,Звезда HD
@@ -39,11 +39,11 @@ https://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
 #EXTINF:-1,МИР HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" ,Мосфильм. Золотая коллекция
-http://api.peers.tv/timeshift/mosfilm_zolotaya_kollektsiya_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjY3MjkyODAsImlhdCI6MTcyNjY0Mjg4MCwiY2lkIjo2LCJ1aWQiOjgyOTA4ODgzMCwicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.2WJruBD286LWSs6Zwfo5chl6w63HIq8WESAEjqWDidg&offset=10
+http://api.peers.tv/timeshift/mosfilm_zolotaya_kollektsiya_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjY4MTU0NDIsImlhdCI6MTcyNjcyOTA0MiwiY2lkIjo2LCJ1aWQiOjgyOTY4NTk2MywicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.oFt7xDenTMviQMTgjO8Id1_wCaAiPdP3xGWAF9mDf3o&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" ,Cinema
-http://api.peers.tv/timeshift/ipark/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjY3MjkyODAsImlhdCI6MTcyNjY0Mjg4MCwiY2lkIjo2LCJ1aWQiOjgyOTA4ODgzMCwicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.2WJruBD286LWSs6Zwfo5chl6w63HIq8WESAEjqWDidg&offset=10
+http://api.peers.tv/timeshift/ipark/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjY4MTU0NDIsImlhdCI6MTcyNjcyOTA0MiwiY2lkIjo2LCJ1aWQiOjgyOTY4NTk2MywicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.oFt7xDenTMviQMTgjO8Id1_wCaAiPdP3xGWAF9mDf3o&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" ,Наука 2.0
-http://api.peers.tv/timeshift/nauka_20/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjY3MjkyODAsImlhdCI6MTcyNjY0Mjg4MCwiY2lkIjo2LCJ1aWQiOjgyOTA4ODgzMCwicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.2WJruBD286LWSs6Zwfo5chl6w63HIq8WESAEjqWDidg&offset=10
+http://api.peers.tv/timeshift/nauka_20/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjY4MTU0NDIsImlhdCI6MTcyNjcyOTA0MiwiY2lkIjo2LCJ1aWQiOjgyOTY4NTk2MywicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.oFt7xDenTMviQMTgjO8Id1_wCaAiPdP3xGWAF9mDf3o&offset=10
 
 
 
