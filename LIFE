@@ -25,7 +25,7 @@ http://iptv.mega.net.ru:8888/REN_TV/mono.m3u8
 #EXTINF:-1,Звезда HD
 https://livetv.mylifeisgood.net.ru/channels/zvezda.m3u8
 #EXTINF:-1,МИР 24 HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,Известия HD
 https://livetv.mylifeisgood.net.ru/channels/iz.m3u8
 #EXTINF:-1,ТНТ HD
