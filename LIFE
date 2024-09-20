@@ -35,7 +35,7 @@ https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
 #EXTINF:-1,ТВ3 HD
 https://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
 #EXTINF:-1,МИР 24 HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1,Наука 2.0
 http://iptv.mega.net.ru:8888/Nauka_2_0/mono.m3u8
 
