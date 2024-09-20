@@ -24,6 +24,8 @@ https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
 http://iptv.mega.net.ru:8888/REN_TV/mono.m3u8
 #EXTINF:-1,Звезда HD
 https://livetv.mylifeisgood.net.ru/channels/zvezda.m3u8
+#EXTINF:-1,МИР 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1,Известия HD
 https://livetv.mylifeisgood.net.ru/channels/iz.m3u8
 #EXTINF:-1,ТНТ HD
@@ -34,8 +36,8 @@ https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
 #EXTINF:-1,ТВ3 HD
 https://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
-#EXTINF:-1,МИР 24 HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1,МИР HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir_2500/playlist.m3u8
 #EXTINF:-1,Наука 2.0
 http://iptv.mega.net.ru:8888/Nauka_2_0/mono.m3u8
 
