@@ -5,9 +5,9 @@ https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1,Первый HD🔵 tvg-logo="https://karnei4.github.io/convert/perviy_hd.png",Первый HD 🔵
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
 #EXTINF:-1,Первый Канал HD
-http://31.130.63.173:1011/pervyj_kanal_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1,Первый Канал HD
 http://iptv.mega.net.ru:8888/Pervii_Kanal_HD/mono.m3u8
+#EXTINF:-1,Первый Канал
+http://iptv.mega.net.ru:8888/Pervii_Kanal/mono.m3u8
 #EXTINF:-1,Первый HD🟠 tvg-logo="https://karnei4.github.io/convert/perviy_hd.png",Первый HD 🟠
 https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
 #EXTINF:-1,Первый Европа HD
