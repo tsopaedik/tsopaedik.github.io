@@ -1,15 +1,9 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 
-#EXTINF:-1,Первый HD🔵 tvg-logo="https://karnei4.github.io/convert/perviy_hd.png",Первый HD 🔵
-https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1,Первый HD🔵 tvg-logo="https://karnei4.github.io/convert/perviy_hd.png",Первый HD 🔵
-https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
 #EXTINF:-1,Первый Канал HD
 http://85.88.175.48:2020/udp/239.4.10.17:2020
 #EXTINF:-1,Первый Канал ,tvg-logo="https://karnei4.github.io/convert/perviy.png",Первый канал
 http://iptv.mega.net.ru:8888/Pervii_Kanal/mono.m3u8
-#EXTINF:-1,Первый HD🟠 tvg-logo="https://karnei4.github.io/convert/perviy_hd.png",Первый HD 🟠
-https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
 #EXTINF:-1,Первый Европа HD
 https://streaming.goodstream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1,Первый канал(+9)
