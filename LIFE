@@ -42,14 +42,7 @@ http://iptv.mega.net.ru:8888/Nauka_2_0/mono.m3u8
 
 
 
-#EXTINF:-1, tvg-logo="https://karnei4.github.io/convert/perviy.png",Первый 
-https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
-#EXTINF:-1,Россия 24
-https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
-#EXTINF:-1, tvg-logo="http://epg.it999.ru/img2/18.png",Рен ТВ 
-https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
-#EXTINF:-1,Звезда
-https://livetv.mylifeisgood.net.ru/channels/zvezda.m3u8
+
 
 
 
