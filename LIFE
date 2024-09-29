@@ -4,8 +4,6 @@
 http://iptv.mega.net.ru:8888/Pervii_Kanal_HD/mono.m3u8
 #EXTINF:-1,Первый Канал ,tvg-logo="https://karnei4.github.io/convert/perviy.png",Первый канал
 http://iptv.mega.net.ru:8888/Pervii_Kanal/mono.m3u8
-#EXTINF:-1,Первый Европа HD
-https://streaming.goodstream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1,Россия 1 HD tvg-logo="http://epg.it999.ru/img2/984.png", Россия 1 HD
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:-1,Россия 24
