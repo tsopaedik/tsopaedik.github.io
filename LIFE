@@ -10,7 +10,7 @@ http://91.224.169.250:5000/c301
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://epgx.site/p/rossia-24.png" ,Россия 24 (WSVGA)
 https://player.smotrim.ru/iframe/stream/live_id/21
-#EXTINF:-1,Россия 24
+##EXTINF:-1,Россия 24
 https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
 #EXTINF:-1,НТВ HD 
 https://livetv.mylifeisgood.net.ru/channels/ntv.m3u8
