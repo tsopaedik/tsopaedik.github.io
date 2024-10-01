@@ -8,7 +8,7 @@ http://91.224.169.250:5000/c67
 http://91.224.169.250:5000/c301
 #EXTINF:-1,Россия 1 HD tvg-logo="http://epg.it999.ru/img2/984.png", Россия 1 HD
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
-#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://epgx.site/p/rossia-24.png" ,Россия 24 (WSVGA)
+#EXTINF:-1,Россия 24 (WSVGA)
 https://player.smotrim.ru/iframe/stream/live_id/21
 ##EXTINF:-1,Россия 24
 https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
@@ -20,7 +20,7 @@ http://91.224.169.250:5000/c311
 https://livetv.mylifeisgood.net.ru/channels/zvezda.m3u8
 #EXTINF:-1,Известия HD
 https://livetv.mylifeisgood.net.ru/channels/iz.m3u8
-#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://epgx.site/p/solovjinypomiot.png" ,Соловьев.Live (HD)
+#EXTINF:-1,Соловьев.Live (HD)
 https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
 #EXTINF:-1,ТНТ HD
 https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
