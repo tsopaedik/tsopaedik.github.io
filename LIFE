@@ -18,6 +18,8 @@ http://91.224.169.250:5000/c311
 https://livetv.mylifeisgood.net.ru/channels/zvezda.m3u8
 #EXTINF:-1,Известия HD
 https://livetv.mylifeisgood.net.ru/channels/iz.m3u8
+#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://epgx.site/p/solovjinypomiot.png" ,Соловьев.Live (HD)
+https://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
 #EXTINF:-1,ТНТ HD
 https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 #EXTINF:-1,ТНТ4 HD 
