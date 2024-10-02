@@ -9,6 +9,7 @@ https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
 #EXTINF:-1,НТВ HD 
 https://livetv.mylifeisgood.net.ru/channels/ntv.m3u8
 #EXTINF:-1,РЕН ТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd116.iptv2022.com/p/olcBjcjcRNtqjYibJ5SE5Q,1727946002/streaming/rentvott/324/1/index.m3u8
 #EXTINF:-1,РЕН ТВ, tvg-logo="http://epg.it999.ru/img2/18.png",Рен ТВ 
 http://edge02.odtv.az/o2/rentv/playlist.m3u8
