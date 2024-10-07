@@ -8,8 +8,10 @@ https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
 #EXTINF:-1,НТВ HD 
 https://livetv.mylifeisgood.net.ru/channels/ntv.m3u8
+#EXTINF:-1,РЕН ТВ HD
+http://ip1.orgip.net/106/video.m3u8?token=Md7ac19a92
 #EXTINF:-1,РЕН ТВ, tvg-logo="http://epg.it999.ru/img2/18.png",Рен ТВ 
-http://46.72.228.30:81/UDP/233.49.170.94:5000
+http://ip1.orgip.net/0106/video.m3u8?token=Md7ac19a92
 #EXTINF:-1,Звезда HD
 https://livetv.mylifeisgood.net.ru/channels/zvezda.m3u8
 #EXTINF:-1,Известия HD
