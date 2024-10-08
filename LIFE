@@ -26,6 +26,8 @@ https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
 #EXTINF:-1,ТВ3 HD
 https://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
+#EXTINF:0 tvg-id="perec" tvg-logo="https://rutv.aws-static-hosting.com/streams/perec.png" tvg-rec="7" catchup-days="7" ,Перец
+http://de.russkoe-iptv.com:88/s/s-0194f550/perec.m3u8
 #EXTINF:-1,Наука 2.0
 https://stream1.cinerama.uz/1248/tracks-v1a1/mono.m3u8
 
