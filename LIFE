@@ -8,10 +8,8 @@ https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
 #EXTINF:-1,НТВ HD 
 https://livetv.mylifeisgood.net.ru/channels/ntv.m3u8
-#EXTINF:-1,РЕН ТВ HD
-http://ip1.orgip.net/106/video.m3u8?token=Md7ac19a92
 #EXTINF:-1,РЕН ТВ, tvg-logo="http://epg.it999.ru/img2/18.png",Рен ТВ 
-http://ip1.orgip.net/0106/video.m3u8?token=Md7ac19a92
+http://edge02.odtv.az/o2/rentv/playlist.m3u8
 #EXTINF:-1,Звезда HD
 https://livetv.mylifeisgood.net.ru/channels/zvezda.m3u8
 #EXTINF:-1,Известия HD
@@ -25,7 +23,7 @@ https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
 #EXTINF:-1,ТВ3 HD
 https://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
 #EXTINF:-1,Наука 2.0
-http://91.224.169.250:5000/c2
+https://stream1.cinerama.uz/1248/tracks-v1a1/mono.m3u8
 
 
 
