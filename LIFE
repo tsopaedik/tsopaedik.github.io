@@ -10,8 +10,10 @@ https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
 #EXTINF:-1,НТВ HD 
 https://livetv.mylifeisgood.net.ru/channels/ntv.m3u8
-#EXTINF:-1,РЕН ТВ, tvg-logo="http://epg.it999.ru/img2/18.png",Рен ТВ 
+##EXTINF:-1,РЕН ТВ, tvg-logo="http://epg.it999.ru/img2/18.png",Рен ТВ 
 http://edge02.odtv.az/o2/rentv/playlist.m3u8
+#EXTINF:0 tvg-id="ren-tv" tvg-logo="https://rutv.aws-static-hosting.com/streams/ren-tv.png" tvg-rec="7" catchup-days="7" ,РЕН ТВ
+http://de.russkoe-iptv.com:88/s/s-0194f550/ren-tv.m3u8
 #EXTINF:-1,Звезда HD
 https://livetv.mylifeisgood.net.ru/channels/zvezda.m3u8
 #EXTINF:-1,Известия HD
