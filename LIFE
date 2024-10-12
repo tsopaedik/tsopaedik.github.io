@@ -13,7 +13,7 @@ https://livetv.mylifeisgood.net.ru/channels/ntv.m3u8
 #EXTINF:-1,РЕН ТВ HD
 http://de.kineskop.club/site2/1054/1009756_ecbb1de8b330cd5d_0_0_fs2.m3u8
 #EXTINF:-1,РЕН ТВ, tvg-logo="http://epg.it999.ru/img2/18.png",Рен ТВ 
-http://91.194.191.241:8081/chid9/tracks-v1a1/mono.m3u8
+http://91.207.115.228:12000/play/a00b
 #EXTINF:-1,Звезда HD
 https://livetv.mylifeisgood.net.ru/channels/zvezda.m3u8
 #EXTINF:-1,Известия HD
