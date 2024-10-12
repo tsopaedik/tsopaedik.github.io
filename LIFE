@@ -28,7 +28,7 @@ https://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
 #EXTINF:-1,Наука 2.0
 https://stream1.cinerama.uz/1248/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Русский Экстрим
-http://91.194.191.241:8081/chid44/tracks-v1a1/mono.m3u8
+http://185.23.80.28:8080/Nauka/index.m3u8?token=test
 
 
 
