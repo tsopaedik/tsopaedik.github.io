@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTM3U url-tvg="http://rutv.aws-static-hosting.com/epg.xml.gz"
 
 #EXTINF:-1,Первый канал
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
