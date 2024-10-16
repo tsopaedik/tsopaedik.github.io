@@ -12,6 +12,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
 https://livetv.mylifeisgood.net.ru/channels/ntv.m3u8
 #EXTINF:-1,РЕН ТВ HD
 http://str17.tv/8082/video.m3u8?token=f57c92f2bdbefe1ccc5b1d432041aeee
+http://str12.tv/8082/video.m3u8?token=579258900ed0cb3c50a5385f3d5e1261
 #EXTINF:-1,РЕН ТВ
 http://185.23.80.28:8080/REN/index.m3u8?token=test
 #EXTINF:-1,Звезда HD
