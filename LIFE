@@ -10,7 +10,7 @@ https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
 #EXTINF:-1,НТВ HD 
 https://livetv.mylifeisgood.net.ru/channels/ntv.m3u8
-#EXTINF:-1,РЕН ТВ HD tvg-logo="http://epg.it999.ru/img2/2487.png" tvg-rec="3",Рен ТВ HD
+#EXTINF:-1,РЕН ТВ HD  tvg-rec="3"
 http://yarhero.edmonst.net/iptv/C8CGEPDET97QLG/9002/index.m3u8
 #EXTINF:-1,РЕН ТВ
 http://185.23.80.28:8080/REN/index.m3u8?token=test
