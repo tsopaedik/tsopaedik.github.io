@@ -19,8 +19,6 @@ http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8
 #EXTINF:-1,ТНТ
 http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
 #EXTINF:-1,ТНТ4
-http://s18209.cdn.ngenix.net/hls/CH_R02_TNT4/playlist.m3u8
-#EXTINF:-1,ТНТ4
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1,СТС
 http://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8
