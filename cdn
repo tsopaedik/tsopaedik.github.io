@@ -23,7 +23,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
 #EXTINF:-1,Terra HD
 http://93.125.121.75:80/Terra/index.m3u8?token=test
 #EXTINF:-1,Наука
-http://80.94.225.126:8080/HistoryHD/mono.m3u8?token=test
+http://93.125.121.75:80/HistoryHD/index.m3u8?token=test
 #EXTINF:-1,Тайна
 https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1,TV1000
