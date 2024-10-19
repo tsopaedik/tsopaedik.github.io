@@ -36,6 +36,12 @@ http://91.194.191.241:8081/chid69/tracks-v1a1/mono.m3u8
 http://91.194.191.241:8081/chid78/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TV1000
 http://91.194.191.241:8081/chid68/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Русская Комедия
+http://91.194.191.241:8081/chid80/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Любимое Кино
+http://91.194.191.241:8081/chid73/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Кино ТВ
+http://91.194.191.241:8081/chid407/tracks-v1a1/mono.m3u8
 
 
 
