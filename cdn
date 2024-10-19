@@ -27,7 +27,7 @@ http://93.125.121.75:80/Terra/index.m3u8?token=test
 #EXTINF:-1,Наука
 http://93.125.121.75:80/HistoryHD/index.m3u8?token=test
 #EXTINF:-1,Тайна
-https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://hls.bemtv.t62a.com/hls2/si50AEcU/1729450635/1thTsb0cNugQd_a3Nd4tFw/stream308/stream0.m3u8
 #EXTINF:-1,Русский Экстрим HD
 http://91.194.191.241:8081/chid44/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TV1000
