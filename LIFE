@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://rutv.aws-static-hosting.com/epg.xml.gz"
+#EXTM3U url-tvg="http://rutv.aws-static-hosting.com/epg.xml.gz" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
 
 #EXTINF:-1,Первый HD
 http://91.194.191.241:8081/chid164/tracks-v1a1/mono.m3u8
