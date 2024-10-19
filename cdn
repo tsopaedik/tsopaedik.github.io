@@ -12,10 +12,6 @@ http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 #EXTINF:-1,Звезда
 http://s18209.cdn.ngenix.net/hls/CH_R03_ZVEZDA/playlist.m3u8
-#EXTINF:-1,ОТР
-http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
-#EXTINF:-1,Россия Культура
-http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8
 #EXTINF:-1,ТНТ
 http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
 #EXTINF:-1,ТНТ4
@@ -24,8 +20,6 @@ https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8
 #EXTINF:-1,ТВ3
 http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
-#EXTINF:-1,Карусель
-http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
 #EXTINF:-1,Terra HD
 https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 #EXTINF:-1,Наука
