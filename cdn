@@ -30,11 +30,11 @@ http://93.125.121.75:80/HistoryHD/index.m3u8?token=test
 https://hls.bemtv.t62a.com/hls2/si50AEcU/1729450635/1thTsb0cNugQd_a3Nd4tFw/stream308/stream0.m3u8
 #EXTINF:-1,Русский Экстрим HD
 http://91.194.191.241:8081/chid44/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TV1000 Русское Кино
+#EXTINF:-1,Viju TV1000 Русское Кино
 http://91.194.191.241:8081/chid69/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TV1000 Action
+#EXTINF:-1,Viju TV1000 Action
 http://91.194.191.241:8081/chid78/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TV1000
+#EXTINF:-1,Viju TV1000
 http://91.194.191.241:8081/chid68/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Русская Комедия
 http://91.194.191.241:8081/chid80/tracks-v1a1/mono.m3u8
