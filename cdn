@@ -14,12 +14,12 @@ http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R03_ZVEZDA/playlist.m3u8
 #EXTINF:-1 group-title="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ
 http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
-#EXTINF:-1,ТНТ4
-https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 group-title="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС
 http://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8
 #EXTINF:-1 group-title="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ3
 http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
+#EXTINF:-1,ТНТ4
+https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1,Перец
 http://93.125.121.75:80/Peretz/index.m3u8?token=test
 #EXTINF:-1,Terra HD
