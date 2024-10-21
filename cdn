@@ -26,8 +26,8 @@ http://93.125.121.75:80/Peretz/index.m3u8?token=test
 http://93.125.121.75:80/Terra/index.m3u8?token=test
 #EXTINF:-1,Наука
 http://93.125.121.75:80/HistoryHD/index.m3u8?token=test
-#EXTINF:-1,Тайна
-https://hls.bemtv.t62a.com/hls2/si50AEcU/1729450635/1thTsb0cNugQd_a3Nd4tFw/stream308/stream0.m3u8
+#EXTINF:-1,Travel+Adventure
+http://91.194.191.241:8081/chid418/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Русский Экстрим HD
 http://91.194.191.241:8081/chid44/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Viju TV1000 Русское Кино
