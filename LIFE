@@ -9,7 +9,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
 #EXTINF:-1,НТВ HD 
 https://livetv.mylifeisgood.net.ru/channels/ntv.m3u8
 #EXTINF:-1,Рен ТВ 
-http://185.23.80.28:8080/REN/index.m3u8?token=test
+http://91.194.191.241:8081/chid9/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Звезда HD
 https://livetv.mylifeisgood.net.ru/channels/zvezda.m3u8
 #EXTINF:-1,ТНТ HD
