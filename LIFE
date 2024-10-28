@@ -4,8 +4,8 @@
 http://91.194.191.241:8081/chid164/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Россия 1 HD 
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
-#EXTINF:-1,Россия 24 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 24
-http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
+#EXTINF:-1,Россия 24 
+https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
 #EXTINF:-1,НТВ HD 
 https://livetv.mylifeisgood.net.ru/channels/ntv.m3u8
 #EXTINF:-1,Рен ТВ 
