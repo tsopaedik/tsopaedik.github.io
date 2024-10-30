@@ -28,12 +28,7 @@ http://91.194.191.241:8081/chid44/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Наука 2.0 HD
 http://91.194.191.241:8081/chid116/tracks-v1a1/mono.m3u8
 http://185.23.80.28:8080/Nauka/index.m3u8?token=test
-#EXTINF:-1,Viju TV1000 Русское Кино
-http://91.194.191.241:8081/chid69/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Viju TV1000 Action
-http://91.194.191.241:8081/chid78/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Viju TV1000
-http://91.194.191.241:8081/chid68/tracks-v1a1/mono.m3u8
+
 
 
 
