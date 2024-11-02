@@ -8,7 +8,7 @@ https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
 #EXTINF:-1,НТВ HD 
 https://livetv.mylifeisgood.net.ru/channels/ntv.m3u8
-#EXTINF:-1,Рен ТВ HD
+#EXTINF:-1,Рен ТВ 
 http://185.23.80.28:8080/REN/index.m3u8?token=test
 #EXTINF:-1,Звезда HD
 https://livetv.mylifeisgood.net.ru/channels/zvezda.m3u8
