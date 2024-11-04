@@ -18,10 +18,10 @@ https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1,СТС HD
 https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
+#EXTINF:-1,ТВ3 HD
+https://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
 #EXTINF:-1,Terra HD
 https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
-#EXTINF:-1,Перец
-http://93.125.121.75:80/Peretz/index.m3u8?token=test
 #EXTINF:-1,Русский Экстрим HD
 http://91.194.191.241:8081/chid44/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Наука 2.0 HD
