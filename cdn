@@ -21,36 +21,17 @@ http://s18209.cdn.ngenix.net/hls/CH_R03_ZVEZDA/playlist.m3u8
 #EXTINF:-1 group-title="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
+#EXTINF:-1  group-title="" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" tvg-id="tnt4",ТНТ4 
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 group-title="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8
 #EXTINF:-1 group-title="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ3
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
-#EXTINF:-1,ТНТ4
-https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
-#EXTINF:-1,Перец
-http://93.125.121.75:80/Peretz/index.m3u8?token=test
-#EXTINF:-1,Terra HD
-http://93.125.121.75:80/Terra/index.m3u8?token=test
-#EXTINF:-1,Наука
-http://93.125.121.75:80/HistoryHD/index.m3u8?token=test
-#EXTINF:-1,Travel+Adventure
-http://91.194.191.241:8081/chid418/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Русский Экстрим HD
-http://91.194.191.241:8081/chid44/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Viju TV1000 Русское Кино
-http://91.194.191.241:8081/chid69/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Viju TV1000 Action
-http://91.194.191.241:8081/chid78/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Viju TV1000
-http://91.194.191.241:8081/chid68/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Русская Комедия
-http://91.194.191.241:8081/chid80/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Любимое Кино
-http://91.194.191.241:8081/chid73/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кино ТВ
-http://91.194.191.241:8081/chid407/tracks-v1a1/mono.m3u8
+
+
 
 
 
