@@ -30,18 +30,7 @@ http://91.194.191.241:8081/chid44/tracks-v1a1/mono.m3u8
 http://185.23.80.28:8080/Nauka/index.m3u8?token=test
 #EXTINF:-1,Диалоги о Рыбалке
 https://livetv.mylifeisgood.net.ru/channels/dialogiorybalke.m3u8
-#EXTINF:-1,Viju+ Megahit HD
-https://livetv.mylifeisgood.net.ru/channels/viju-megahit.m3u8
-#EXTINF:-1,Viju+ Comedy HD
-https://livetv.mylifeisgood.net.ru/channels/viju-comedy.m3u8
-#EXTINF:-1,Viju+ Premiere HD
-https://livetv.mylifeisgood.net.ru/channels/viju-premiere.m3u8
-#EXTINF:-1  catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv1/TV1000_HD/index-${start}-${offset}.m3u8" ,Viju TV1000 HD
-https://livetv.mylifeisgood.net.ru/channels/viju-tv1000.m3u8
-#EXTINF:-1  catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv1oneaudio/TV1000ACTION_HD/tracks-v1a1/index-${start}-${offset}.m3u8" ,Viju TV1000 Action HD
-https://livetv.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8
-#EXTINF:-1  catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv1oneaudio/TV1000RU_HD/tracks-v1a1/index-${start}-${offset}.m3u8" ,Viju TV1000 Русское HD
-https://livetv.mylifeisgood.net.ru/channels/viju-tv1000russkoe.m3u8
+
 
 
 
