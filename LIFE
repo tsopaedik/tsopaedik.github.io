@@ -32,7 +32,7 @@ http://185.23.80.28:8080/Nauka/index.m3u8?token=test
 https://livetv.mylifeisgood.net.ru/channels/dialogiorybalke.m3u8
 #EXTINF:-1 tvg-id="devcm_f2f08e0dbd77ed2bf2486fb5_2024" ,Viju+ Megahit HD
 https://livetv.mylifeisgood.net.ru/channels/viju-megahit.m3u8
-#EXTINF:-1 tvg-id="devcm_d5f08e5dbd77ed2b67486fb5_2024" ,Viju+ Comedy HD
+#EXTINF:-1,Viju+ Comedy HD
 https://livetv.mylifeisgood.net.ru/channels/viju-comedy.m3u8
 #EXTINF:-1 tvg-id="devcm_e2f08e0dbd77ed2b9e386fb5_2024" ,Viju+ Premiere HD
 https://livetv.mylifeisgood.net.ru/channels/viju-premiere.m3u8
