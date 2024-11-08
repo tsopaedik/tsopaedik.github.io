@@ -9,6 +9,7 @@ https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
 #EXTINF:-1,НТВ HD 
 https://livetv.mylifeisgood.net.ru/channels/ntv.m3u8
 #EXTINF:-1,Рен ТВ 
+http://de.kineskop.club/site2/1054/1009756_ecbb1de8b330cd5d_0_0_fs2.m3u8
 http://185.23.80.28:8080/REN/index.m3u8?token=test
 #EXTINF:-1,Звезда HD
 https://livetv.mylifeisgood.net.ru/channels/zvezda.m3u8
