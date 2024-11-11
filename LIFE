@@ -2,6 +2,8 @@
 
 #EXTINF:-1,Первый HD
 http://91.194.191.241:8081/chid164/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-rec="7",Первый HD
+http://yarhero.edmonst.net/iptv/BQ48DLN4AU8LZB/204/index.m3u8
 #EXTINF:-1,Россия 1 HD 
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:-1,Россия 24 
@@ -30,8 +32,7 @@ https://livetv.mylifeisgood.net.ru/channels/50c0316fa37fc4a9866a66f817e6c4383cb2
 http://91.194.191.241:8081/chid44/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Наука 2.0 HD
 http://185.23.80.28:8080/Nauka/index.m3u8?token=test
-#EXTINF:-1,Диалоги о Рыбалке
-https://livetv.mylifeisgood.net.ru/channels/dialogiorybalke.m3u8
+
 
 
 
