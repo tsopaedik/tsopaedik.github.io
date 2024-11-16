@@ -1,5 +1,38 @@
 #EXTM3U url-tvg="http://rutv.aws-static-hosting.com/epg.xml.gz" 
 
+#EXTINF:-1 group-title="mhd" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/105/logo_256_1655386697.png", Первый канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/S-XTRB45kW_fQl0q9fY_OA,1731792103/streaming/1kanalott/324/5/index.m3u8
+#EXTINF:-1 group-title="mhd" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/115/logo_256_1655391177.png", Россия 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/tmISVmJOVrbJGhcFW86ZHw,1731792103/streaming/rossia1ott/324/5/index.m3u8
+#EXTINF:-1 group-title="mhd" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/148/logo_256_1655391326.png", Россия - 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/GTZ88stXd70tOaDzrxA4Ig,1731792105/streaming/rossia24nn/324/5/index.m3u8
+#EXTINF:-1 group-title="mhd" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10100/logo_256_1655385292.png", НТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/1RnKZonmRLqAlAlfrI5ZKg,1731792104/streaming/ntvnn/324/5/index.m3u8
+#EXTINF:-1 group-title="mhd" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/113/logo_256_1655445172.png", Рен ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/YbXobgzrR7ng7j_yVQbKqw,1731792107/streaming/rentvott/324/5/index.m3u8
+#EXTINF:-1 group-title="mhd" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/72/logo_256_1655448761.png", Звезда
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/LDzQJs0--Huw9tvqESbtjg,1731792110/streaming/zvezda/324/5/index.m3u8
+#EXTINF:-1 group-title="mhd" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/136/logo_256_1655448788.png", ТНТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/5FloZJW8cVShWe2R-UCsKw,1731792111/streaming/tntott/324/5/index.m3u8
+#EXTINF:-1 group-title="mhd" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/168/logo_256_1674737363.png", ТНТ4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/dGZjomoFkKJliTMM3hXyoQ,1731792113/streaming/tnt4ott/324/5/index.m3u8
+#EXTINF:-1 group-title="mhd" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/126/logo_256_1655445109.png", СТС
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/gnCup5cvge562B1JaPgTYg,1731792108/streaming/stsott/324/5/index.m3u8
+#EXTINF:-1 group-title="mhd" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/130/logo_256_1709536582.png", ТВ-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/WrcfGCJScgyNwfhNXF1mwA,1731792109/streaming/tv3ott/324/5/index.m3u8
+
+
+
 #EXTINF:-1 group-title="cdn" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
