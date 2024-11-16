@@ -1,7 +1,6 @@
 #EXTM3U url-tvg="http://rutv.aws-static-hosting.com/epg.xml.gz" 
 
 #EXTINF:-1,Первый HD
-http://62.231.191.65:8888/201
 http://91.194.191.241:8081/chid164/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Россия 1 HD 
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
