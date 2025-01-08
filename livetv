@@ -30,12 +30,6 @@ https://livetv.mylifeisgood.net.ru/channels/karuselvgtrk.m3u8
 https://livetv.mylifeisgood.net.ru/channels/match.m3u8
 #EXTINF:-1 tvg-id="devcm_vtzum_2024" group-title="" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/muztv/index-${start}-${offset}.m3u8",Муз ТВ
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
-#EXTINF:-1 tvg-id="devcm_f2f08e0dbd77ed2bf2486fb5_2024" group-title="",Viju+ Megahit HD
-https://livetv.mylifeisgood.net.ru/channels/viju-megahit.m3u8
-#EXTINF:-1 tvg-id="devcm_d5f08e5dbd77ed2b67486fb5_2024" group-title="",Viju+ Comedy HD
-https://livetv.mylifeisgood.net.ru/channels/viju-comedy.m3u8
-#EXTINF:-1 tvg-id="devcm_e2f08e0dbd77ed2b9e386fb5_2024" group-title="",Viju+ Premiere HD
-https://livetv.mylifeisgood.net.ru/channels/viju-premiere.m3u8
 #EXTINF:-1 tvg-id="devcm_425540f80176e2e4959a1165_2024" group-title="" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv1/TV1000_HD/index-${start}-${offset}.m3u8",Viju TV1000 HD
 https://livetv.mylifeisgood.net.ru/channels/viju-tv1000.m3u8
 #EXTINF:-1 tvg-id="devcm_525540f80176e2e4f89a1165_2024" group-title="" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv1oneaudio/TV1000ACTION_HD/tracks-v1a1/index-${start}-${offset}.m3u8",Viju TV1000 Action HD
