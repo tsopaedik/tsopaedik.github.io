@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://rutv.aws-static-hosting.com/epg.xml.gz,https://epg-server.mylifeisgood.net.ru/tv/mYHL3jaY6TTheRSw1DzQkQ/1745865133/epgplaylist"
 
-#EXTINF:-1, tvg-logo="http://stb.ru-tv.site/images/logo_chanel/1RUSHD200.png" ,Первый HD
+#EXTINF:-1 tvg-logo="http://stb.ru-tv.site/images/logo_chanel/1RUSHD200.png" ,Первый HD
 https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
 #EXTINF:-1 tvg-id="devcm_1aissor_2024" group-title="" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/173/${start}",Россия 1 HD
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
@@ -20,7 +20,7 @@ https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
 #EXTINF:-1 tvg-id="devcm_3vt_2024" group-title="" catchup-days="1" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/tv3/index-${start}-${offset}.m3u8",ТВ3 HD
 https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
-#EXTINF:-1 tvg-id="devcm_c85dbbf36077ed2b7cd3bbb5_2024" group-title="",ТеRRa HD
+#EXTINF:-1 tvg-logo="http://stb.ru-tv.site/images/logo_chanel/terra.png" ,ТеRRa HD
 https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 #EXTINF:-1 tvg-id="devcm_kaissur_2024" group-title="",Россия Культура
 https://livetv.mylifeisgood.net.ru/channels/russiak.m3u8
