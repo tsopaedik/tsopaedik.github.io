@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://rutv.aws-static-hosting.com/epg.xml.gz,https://epg-server.mylifeisgood.net.ru/tv/mYHL3jaY6TTheRSw1DzQkQ/1745865133/epgplaylist"
+#EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz"
 
 #EXTINF:-1 tvg-logo="http://stb.ru-tv.site/images/logo_chanel/1RUSHD200.png" ,Первый HD
 https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
