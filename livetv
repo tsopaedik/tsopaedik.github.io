@@ -2,7 +2,7 @@
 
 #EXTINF:-1 group-title="" tvg-id="devcm_lanak1_2024",Первый HD
 https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
-#EXTINF:-1 tvg-id="devcm_1aissor_2024" group-title="" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/173/${start}",Россия 1
+#EXTINF:-1 tvg-id="devcm_1aissor_2024" group-title="" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/173/${start}",Россия 1 HD
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:-1 tvg-id="devcm_42aissor_2024" group-title="",Россия 24
 https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
@@ -10,7 +10,7 @@ https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
 https://livetv.mylifeisgood.net.ru/channels/ntv.m3u8
 #EXTINF:-1 tvg-id="devcm_vtner_2024" group-title="" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/111/${start}",РЕН ТВ HD
 https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
-#EXTINF:-1 tvg-id="devcm_adzevz_2024" group-title="" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/zvezda/index-${start}-${offset}.m3u8",Звезда
+#EXTINF:-1 tvg-id="devcm_adzevz_2024" group-title="" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/zvezda/index-${start}-${offset}.m3u8",Звезда HD
 https://livetv.mylifeisgood.net.ru/channels/zvezda.m3u8
 #EXTINF:-1 tvg-id="devcm_tnt_2024" group-title="" catchup-days="1" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/tnt/index-${start}-${offset}.m3u8",ТНТ HD
 https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
@@ -20,9 +20,9 @@ https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
 #EXTINF:-1 tvg-id="devcm_3vt_2024" group-title="" catchup-days="1" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/tv3/index-${start}-${offset}.m3u8",ТВ3 HD
 https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
-#EXTINF:-1 tvg-id="devcm_c85dbbf36077ed2b7cd3bbb5_2024" group-title="",ТеRRa
+#EXTINF:-1 tvg-id="devcm_c85dbbf36077ed2b7cd3bbb5_2024" group-title="",ТеRRa HD
 https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
-#EXTINF:-1 tvg-id="devcm_kaissur_2024" group-title="",Россия К
+#EXTINF:-1 tvg-id="devcm_kaissur_2024" group-title="",Россия Культура
 https://livetv.mylifeisgood.net.ru/channels/russiak.m3u8
 #EXTINF:-1 tvg-id="devcm_lesurak_2024" group-title="" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/karusel/index-${start}-${offset}.m3u8",Карусель
 https://livetv.mylifeisgood.net.ru/channels/karuselvgtrk.m3u8
