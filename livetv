@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz"
 
-#EXTINF:-1 tvg-logo="http://stb.ru-tv.site/images/logo_chanel/1RUSHD200.png" ,Первый HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/983.png" ,Первый HD
 https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
 #EXTINF:-1 tvg-id="devcm_1aissor_2024" group-title="" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/173/${start}",Россия 1 HD
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
