@@ -22,7 +22,7 @@ https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
 https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7632.png" ,ТERRA HD
 https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/187.png" ,Россия Культура
+#EXTINF:-1,Россия Культура
 https://livetv.mylifeisgood.net.ru/channels/russiak.m3u8
 #EXTINF:-1 catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/karusel/index-${start}-${offset}.m3u8",Карусель
 https://livetv.mylifeisgood.net.ru/channels/karuselvgtrk.m3u8
