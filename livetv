@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/perviy_hd.png" ,Первый HD
 https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/984.png", catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/173/${start}",Россия 1 HD
+#EXTINF:-1 catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/173/${start}",Россия 1 HD
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:-1,Россия 24
 https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
