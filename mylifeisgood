@@ -20,6 +20,12 @@ https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/698.png", catchup-days="1" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/tv3/index-${start}-${offset}.m3u8",ТВ3 HD
 https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
+#EXTINF:-1,Viasat History HD
+https://livetv.mylifeisgood.net.ru/channels/viju-history.m3u8
+#EXTINF:-1,Viasat Explore HD
+https://livetv.mylifeisgood.net.ru/channels/viju-explorer.m3u8
+#EXTINF:-1,Viasat Nature HD
+https://livetv.mylifeisgood.net.ru/channels/viju-nature.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7632.png" ,Terra HD
 https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 #EXTINF:-1,Россия К
