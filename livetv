@@ -8,7 +8,7 @@ https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
 #EXTINF:-1 tvg-id="devcm_vtn_2024" group-title="" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/220/${start}",НТВ HD
 https://livetv.mylifeisgood.net.ru/channels/ntv.m3u8
-#EXTINF:-1 tvg-id="devcm_vtner_2024" group-title="" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/111/${start}",РЕН ТВ HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2487.png", catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/111/${start}",РЕН ТВ HD
 https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
 #EXTINF:-1 tvg-id="devcm_adzevz_2024" group-title="" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/zvezda/index-${start}-${offset}.m3u8",Звезда HD
 https://livetv.mylifeisgood.net.ru/channels/zvezda.m3u8
