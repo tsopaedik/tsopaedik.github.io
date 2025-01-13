@@ -22,7 +22,7 @@ https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
 https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7632.png" ,ТERRA HD
 https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
-#EXTINF:-1,Россия Культура
+#EXTINF:-1,Россия К
 https://livetv.mylifeisgood.net.ru/channels/russiak.m3u8
 #EXTINF:-1 catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/karusel/index-${start}-${offset}.m3u8",Карусель
 https://livetv.mylifeisgood.net.ru/channels/karuselvgtrk.m3u8
@@ -30,9 +30,9 @@ https://livetv.mylifeisgood.net.ru/channels/karuselvgtrk.m3u8
 https://livetv.mylifeisgood.net.ru/channels/match.m3u8
 #EXTINF:-1 catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/muztv/index-${start}-${offset}.m3u8",Муз ТВ HD
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
-#EXTINF:-1 catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv1/TV1000_HD/index-${start}-${offset}.m3u8",Viju TV1000 HD
+#EXTINF:-1 catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv1/TV1000_HD/index-${start}-${offset}.m3u8",TV1000 HD
 https://livetv.mylifeisgood.net.ru/channels/viju-tv1000.m3u8
-#EXTINF:-1 catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv1oneaudio/TV1000ACTION_HD/tracks-v1a1/index-${start}-${offset}.m3u8",Viju TV1000 Action HD
+#EXTINF:-1 catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv1oneaudio/TV1000ACTION_HD/tracks-v1a1/index-${start}-${offset}.m3u8",TV1000 Action HD
 https://livetv.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8
-#EXTINF:-1 catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv1oneaudio/TV1000RU_HD/tracks-v1a1/index-${start}-${offset}.m3u8",Viju TV1000 Русское HD
+#EXTINF:-1 catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv1oneaudio/TV1000RU_HD/tracks-v1a1/index-${start}-${offset}.m3u8",TV1000 Русское HD
 https://livetv.mylifeisgood.net.ru/channels/viju-tv1000russkoe.m3u8
