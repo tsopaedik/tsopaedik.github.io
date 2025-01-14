@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/perviy_hd.png" ,Первый канал HD
 https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="&offset=-${offset}" tvg-id="pervy",tvg-logo="https://karnei4.github.io/convert/perviy.png",Первый канал
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2
 #EXTINF:-1 catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/173/${start}",Россия 1 HD
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:-1,Россия 24
@@ -30,8 +32,6 @@ https://livetv.mylifeisgood.net.ru/channels/viju-nature.m3u8
 https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 #EXTINF:-1,Россия К
 https://livetv.mylifeisgood.net.ru/channels/russiak.m3u8
-#EXTINF:-1 catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/karusel/index-${start}-${offset}.m3u8",Карусель
-https://livetv.mylifeisgood.net.ru/channels/karuselvgtrk.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2051.png", catchup-days="1" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/match/index-${start}-${offset}.m3u8" description="Без ограничения на матчи",Матч! HD
 https://livetv.mylifeisgood.net.ru/channels/match.m3u8
 #EXTINF:-1 catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/muztv/index-${start}-${offset}.m3u8",Муз ТВ HD
