@@ -14,13 +14,13 @@ https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
 https://livetv.mylifeisgood.net.ru/channels/zvezda.m3u8
 #EXTINF:-1 tvg-logo="http://stb.ru-tv.site/images/logo_chanel/TNTHD200.png" catchup-days="1" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/tnt/index-${start}-${offset}.m3u8",ТНТ HD
 https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
-#EXTINF:-1,ТНТ4 HD
+#EXTINF:-1 tvg-logo="http://stb.ru-tv.site/images/logo_chanel/TNT4200.png" ,ТНТ4 HD
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
-#EXTINF:-1 catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/4835/${start}",СТС HD
+#EXTINF:-1 tvg-logo="http://stb.ru-tv.site/images/logo_chanel/STSTV200 (1).png" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/4835/${start}",СТС HD
 https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/698.png", catchup-days="1" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/tv3/index-${start}-${offset}.m3u8",ТВ3 HD
 https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
-#EXTINF:-1,Россия К
+#EXTINF:-1 tvg-logo="http://stb.ru-tv.site/images/logo_chanel/RUSSIAK200.png" ,Россия К
 https://livetv.mylifeisgood.net.ru/channels/russiak.m3u8
 #EXTINF:-1 catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv1/TV1000_HD/index-${start}-${offset}.m3u8",TV1000 HD
 https://livetv.mylifeisgood.net.ru/channels/viju-tv1000.m3u8
