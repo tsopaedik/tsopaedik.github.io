@@ -1,7 +1,6 @@
 #EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz"
 
 #EXTINF:-1,Первый канал HD tvg-logo="https://karnei4.github.io/convert/perviy_hd.png" ,Первый канал HD
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
 #EXTINF:-1,Россия 1 HD tvg-logo="http://epg.it999.ru/img2/984.png" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/173/${start}",Россия 1 HD
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
