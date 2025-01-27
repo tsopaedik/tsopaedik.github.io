@@ -1,31 +1,31 @@
 #EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz"
 
-#EXTINF:-1,Первый канал HD tvg-logo="https://karnei4.github.io/convert/perviy_hd.png" ,Первый канал HD
+#EXTINF:-1 group-title="mylifeisgood",Первый канал HD tvg-logo="https://karnei4.github.io/convert/perviy_hd.png" ,Первый канал HD
 https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
-#EXTINF:-1,Россия 1 HD tvg-logo="http://epg.it999.ru/img2/984.png" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/173/${start}",Россия 1 HD
+#EXTINF:-1 group-title="mylifeisgood",Россия 1 HD tvg-logo="http://epg.it999.ru/img2/984.png" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/173/${start}",Россия 1 HD
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
-#EXTINF:-1,Россия 24 tvg-logo="http://epg.it999.ru/img2/1683.png" ,Россия 24
+#EXTINF:-1 group-title="mylifeisgood",Россия 24 tvg-logo="http://epg.it999.ru/img2/1683.png" ,Россия 24
 https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
-#EXTINF:-1,НТВ HD tvg-logo="http://epg.it999.ru/img2/2001.png", catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/220/${start}",НТВ HD
+#EXTINF:-1 group-title="mylifeisgood",НТВ HD tvg-logo="http://epg.it999.ru/img2/2001.png", catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/220/${start}",НТВ HD
 https://livetv.mylifeisgood.net.ru/channels/ntv.m3u8
-#EXTINF:-1,РЕН ТВ HD tvg-logo="http://epg.it999.ru/img2/2487.png", catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/111/${start}",РЕН ТВ HD
+#EXTINF:-1 group-title="mylifeisgood",РЕН ТВ HD tvg-logo="http://epg.it999.ru/img2/2487.png", catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/111/${start}",РЕН ТВ HD
 https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
-#EXTINF:-1,Звезда HD tvg-logo="http://epg.it999.ru/img2/405.png", catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/zvezda/index-${start}-${offset}.m3u8",Звезда HD
+#EXTINF:-1 group-title="mylifeisgood",Звезда HD tvg-logo="http://epg.it999.ru/img2/405.png", catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/zvezda/index-${start}-${offset}.m3u8",Звезда HD
 https://livetv.mylifeisgood.net.ru/channels/zvezda.m3u8
-#EXTINF:-1,ТНТ HD tvg-logo="http://stb.ru-tv.site/images/logo_chanel/TNTHD200.png" catchup-days="1" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/tnt/index-${start}-${offset}.m3u8",ТНТ HD
+#EXTINF:-1 group-title="mylifeisgood",ТНТ HD tvg-logo="http://stb.ru-tv.site/images/logo_chanel/TNTHD200.png" catchup-days="1" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/tnt/index-${start}-${offset}.m3u8",ТНТ HD
 https://livetv.mylifeisgood.net.ru/channels/tnt.m3u8
-#EXTINF:-1,ТНТ4 HD tvg-logo="http://stb.ru-tv.site/images/logo_chanel/TNT4200.png" ,ТНТ4 HD
+#EXTINF:-1 group-title="mylifeisgood",ТНТ4 HD tvg-logo="http://stb.ru-tv.site/images/logo_chanel/TNT4200.png" ,ТНТ4 HD
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
-#EXTINF:-1,СТС HD tvg-logo="http://stb.ru-tv.site/images/logo_chanel/STSTV200 (1).png" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/4835/${start}",СТС HD
+#EXTINF:-1 group-title="mylifeisgood",СТС HD tvg-logo="http://stb.ru-tv.site/images/logo_chanel/STSTV200 (1).png" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/4835/${start}",СТС HD
 https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
-#EXTINF:-1,ТВ3 HD tvg-logo="http://epg.it999.ru/img2/698.png", catchup-days="1" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/tv3/index-${start}-${offset}.m3u8",ТВ3 HD
+#EXTINF:-1 group-title="mylifeisgood",ТВ3 HD tvg-logo="http://epg.it999.ru/img2/698.png", catchup-days="1" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/tv3/index-${start}-${offset}.m3u8",ТВ3 HD
 https://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
-#EXTINF:-1,Перец tvg-logo="http://epg.it999.ru/img2/5651.png" ,Перец
+#EXTINF:-1 group-title="mylifeisgood",Перец tvg-logo="http://epg.it999.ru/img2/5651.png" ,Перец
 https://cdn3.skygo.mn/live/disk1/Che/HLS-FTA/Che.m3u8
-#EXTINF:-1,Viju TV1000 HD tvg-logo="http://epg.it999.ru/img2/127.png" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv1/TV1000_HD/index-${start}-${offset}.m3u8",Viju TV1000 HD
+#EXTINF:-1 group-title="mylifeisgood",Viju TV1000 HD tvg-logo="http://epg.it999.ru/img2/127.png" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv1/TV1000_HD/index-${start}-${offset}.m3u8",Viju TV1000 HD
 https://livetv.mylifeisgood.net.ru/channels/viju-tv1000.m3u8
-#EXTINF:-1,Viju TV1000 Action HD tvg-logo="http://epg.it999.ru/img2/125.png" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv1oneaudio/TV1000ACTION_HD/tracks-v1a1/index-${start}-${offset}.m3u8",Viju TV1000 Action HD
+#EXTINF:-1 group-title="mylifeisgood",Viju TV1000 Action HD tvg-logo="http://epg.it999.ru/img2/125.png" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv1oneaudio/TV1000ACTION_HD/tracks-v1a1/index-${start}-${offset}.m3u8",Viju TV1000 Action HD
 https://livetv.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8
-#EXTINF:-1,VijuTV1000 Русское кино HD tvg-logo="http://epg.it999.ru/img2/267.png" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv1oneaudio/TV1000RU_HD/tracks-v1a1/index-${start}-${offset}.m3u8",Viju TV1000 Русское кино HD
+#EXTINF:-1 group-title="mylifeisgood",VijuTV1000 Русское кино HD tvg-logo="http://epg.it999.ru/img2/267.png" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv1oneaudio/TV1000RU_HD/tracks-v1a1/index-${start}-${offset}.m3u8",Viju TV1000 Русское кино HD
 https://livetv.mylifeisgood.net.ru/channels/viju-tv1000russkoe.m3u8
 
