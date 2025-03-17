@@ -18,7 +18,7 @@ https://livetv.mylifeisgood.net.ru/channels/tnt.m3u8
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1,СТС HD tvg-logo="http://stb.ru-tv.site/images/logo_chanel/STSTV200 (1).png" catchup-days="3" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv25/4835/${start}",СТС
 https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
-#EXTINF:-1,ТВ-3 HD tvg-logo="http://epg.it999.ru/img2/698.png", catchup-days="1" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/tv3/index-${start}-${offset}.m3u8",ТВ3
+#EXTINF:-1,ТВ-3 HD tvg-logo="http://epg.it999.ru/img2/698.png", catchup-days="1" catchup-source="https://livetv.mylifeisgood.net.ru/arhive/srv17/tv3/index-${start}-${offset}.m3u8",ТВ-3
 https://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
 #EXTINF:-1,Перец tvg-logo="http://epg.it999.ru/img2/5651.png" ,Перец
 https://cdn3.skygo.mn/live/disk1/Che/HLS-FTA/Che.m3u8
