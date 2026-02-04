@@ -7,7 +7,7 @@ http://31.131.141.195:8000/play/1020/index.m3u8
 http://31.131.141.195:8000/play/1070/index.m3u8
 #EXTINF:-1 , tvg-logo="http://epg.it999.ru/img2/162.png" ,НТВ
 http://31.131.141.195:8000/play/1040/index.m3u8
-#EXTINF:-1 , tvg-logo="http://epg.it999.ru/img2/18.png" ,РЕН-ТВ
+#EXTINF:-1 , tvg-logo="http://epg.it999.ru/img2/18.png" ,РЕН ТВ
 http://31.131.141.195:8000/play/2010/index.m3u8
 #EXTINF:-1 , tvg-logo="http://stb.ping-tv.com/images/logo_chanel/ZVEZDARUS200.png",Звезда 
 http://31.131.141.195:8000/play/2070/index.m3u8
@@ -28,7 +28,7 @@ http://tv.lamro.workers.dev/?ID=3151
 http://tv.lamro.workers.dev/?ID=3190
 #EXTINF:-1 tvg-id="3314" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/387/387.jpeg",НТВ 
 http://tv.lamro.workers.dev/?ID=3314
-#EXTINF:-1 tvg-id="4743" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/33/1.1",Рен-ТВ 
+#EXTINF:-1 tvg-id="4743" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/33/1.1",Рен ТВ 
 http://tv.lamro.workers.dev/?ID=4743
 #EXTINF:-1 tvg-id="3202" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/74/1.1",Звезда 
 http://tv.lamro.workers.dev/?ID=3202
@@ -44,4 +44,5 @@ http://tv.lamro.workers.dev/?ID=4978
 http://tv.lamro.workers.dev/?ID=4121
 #EXTINF:-1 tvg-id="5238" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1062/1.1",Окко Спорт 
 http://tv.lamro.workers.dev/?ID=5238
+
 
