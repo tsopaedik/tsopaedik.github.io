@@ -1,0 +1,20 @@
+#EXTM3U
+#EXTINF:-1 , tvg-logo="https://karnei4.github.io/convert/perviy.png",Первый канал
+http://31.131.141.195:8000/play/1010/index.m3u8
+#EXTINF:-1 , tvg-logo="http://stb.ping-tv.com/images/logo_chanel/RUSSIA1200.png",Россия 1 
+http://31.131.141.195:8000/play/1020/index.m3u8
+#EXTINF:-1 , tvg-logo="http://stb.ping-tv.com/images/logo_chanel/RUSSIA24200.png",Россия 24 
+http://31.131.141.195:8000/play/1070/index.m3u8
+#EXTINF:-1 , tvg-logo="http://epg.it999.ru/img2/162.png" ,НТВ
+http://31.131.141.195:8000/play/1040/index.m3u8
+#EXTINF:-1 , tvg-logo="http://epg.it999.ru/img2/18.png" ,РЕН-ТВ
+http://31.131.141.195:8000/play/2010/index.m3u8
+#EXTINF:-1 , tvg-logo="http://stb.ping-tv.com/images/logo_chanel/ZVEZDARUS200.png",Звезда 
+http://31.131.141.195:8000/play/2070/index.m3u8
+#EXTINF:-1 , tvg-logo="http://epg.it999.ru/img2/353.png" ,ТНТ
+http://31.131.141.195:8000/play/2090/index.m3u8
+#EXTINF:-1 , tvg-logo="http://stb.ping-tv.com/images/logo_chanel/STSTV200 (1).png",СТС 
+http://31.131.141.195:8000/play/2030/index.m3u8
+#EXTINF:-1 , tvg-logo="http://epg.it999.ru/img2/698.png" ,ТВ3
+http://31.131.141.195:8000/play/a002/index.m3u8
+
