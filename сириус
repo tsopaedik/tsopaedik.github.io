@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="http://epg.one/ru2.xml.gz"
 
+#EXTINF:-1 tvg-id="3315" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1/(315).png",Первый канал
+http://tv.lamro.workers.dev/?ID=3315
 #EXTINF:-1 tvg-id="3278" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/153/1.1",Первый канал
 http://tv.lamro.workers.dev/?ID=3278
 #EXTINF:-1 tvg-id="3151" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/154/1.1",Россия 1 
