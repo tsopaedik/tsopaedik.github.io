@@ -44,8 +44,6 @@ http://tv.lamro.workers.dev/?ID=5087
 http://tv.lamro.workers.dev/?ID=5088
 #EXTINF:-1 tvg-id="3301" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/127/2.2",Киномикс
 http://tv.lamro.workers.dev/?ID=3301
-#EXTINF:-1 ,Первый канал Евразия
-https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/1tvkz/1tvkz_720/chunks.m3u8
 #EXTINF:-1, tvg-logo="http://epg.it999.ru/img/983.png",Первый канал HD
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
