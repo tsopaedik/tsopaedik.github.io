@@ -17,7 +17,23 @@ http://tv.lamro.workers.dev/?ID=3196
 http://tv.lamro.workers.dev/?ID=3202
 #EXTINF:-1 tvg-id="5223" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1069/1.1",ТНТ 
 http://tv.lamro.workers.dev/?ID=5223
+#EXTINF:-1 tvg-id="554" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/280/280.png",ТНТ HD
+http://tv.padarok.workers.dev/?ID=554
+#EXTINF:-1 tvg-id="556" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/226/226.png",ТНТ4
+http://tv.padarok.workers.dev/?ID=556
+#EXTINF:-1 , ТНТ
+http://87.76.32.36:8001/tnt
+#EXTINF:-1 ,ТНТ
+http://185.46.16.239:8000/TNT
+#EXTINF:-1 , ТНТ
+http://176.118.197.101/THT/index.m3u8
 #EXTINF:-1 tvg-id="4997" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/702/1.1",СТС 
+#EXTINF:-1 , ТНТ4
+http://176.118.197.101/TNT4/index.m3u8
+#EXTINF:-1 ,ТНТ
+http://62.89.220.15/streams/media/tnt-4_720x576/index.m3u8
+#EXTINF:-1 ,ТНТ4
+http://62.89.220.15/streams/media/tnt4_720x576/index.m3u8
 http://tv.lamro.workers.dev/?ID=4997
 #EXTINF:-1 tvg-id="4998" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/903/1.1",ТВ3 
 http://tv.lamro.workers.dev/?ID=4998
