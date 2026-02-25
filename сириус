@@ -3,6 +3,8 @@
 
 #EXTINF:-1 tvg-id="3278" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/153/1.1",Первый канал
 http://tv.lamro.workers.dev/?ID=3278
+#EXTINF:-1 tvg-id="527" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/205/1_HD_grau.png",Первый канал HD
+http://tv.padarok.workers.dev/?ID=527
 #EXTINF:-1 tvg-id="3151" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/154/1.1",Россия 1 
 http://tv.lamro.workers.dev/?ID=3151
 #EXTINF:-1 tvg-id="3190" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/8/1.1",Россия 24
@@ -11,6 +13,8 @@ http://tv.lamro.workers.dev/?ID=3190
 http://tv.lamro.workers.dev/?ID=3314
 #EXTINF:-1 tvg-id="4743" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/33/1.1",Рен ТВ 
 http://tv.lamro.workers.dev/?ID=4743
+#EXTINF:-1 tvg-id="540" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/23/103_13_ren_tv.png",Рен ТВ HD
+http://tv.padarok.workers.dev/?ID=540
 #EXTINF:-1 tvg-id="3196" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/32/1.1",РБК 
 http://tv.lamro.workers.dev/?ID=3196
 #EXTINF:-1 tvg-id="3202" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/74/1.1",Звезда 
@@ -59,5 +63,33 @@ http://tv.lamro.workers.dev/?ID=5087
 http://tv.lamro.workers.dev/?ID=5088
 #EXTINF:-1 tvg-id="3301" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/127/2.2",Киномикс
 http://tv.lamro.workers.dev/?ID=3301
+#EXTINF:-1 tvg-id="612" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/75/1_0_1_2CD_CD_1_3200000_0_0_0.png",Кинохит HD
+http://tv.padarok.workers.dev/?ID=612
+#EXTINF:-1 tvg-id="613" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/76/1_0_1_391_CF_1_3200000_0_0_0.png",Киномикс HD
+http://tv.padarok.workers.dev/?ID=613
+#EXTINF:-1 tvg-id="614" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/77/1_0_1_336_CE_1_3200000_0_0_0.png",Киносемья HD
+http://tv.padarok.workers.dev/?ID=614
+#EXTINF:-1 tvg-id="615" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/78/291_292_kinokomediya.png",Кинокомедия HD
+http://tv.padarok.workers.dev/?ID=615
+#EXTINF:-1 tvg-id="616" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/79/1_0_1_2CF_CD_1_3200000_0_0_0.png",Киносвидание
+http://tv.padarok.workers.dev/?ID=616
+#EXTINF:-1 tvg-id="617" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/80/541_293_indijskoe_kino.png",Индийское Кино
+http://tv.padarok.workers.dev/?ID=617
+#EXTINF:-1 tvg-id="618" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/81/1_0_16_72_65_1_3200000_0_0_0.png",Viju TV1000 Action HD
+http://tv.padarok.workers.dev/?ID=618
+#EXTINF:-1 tvg-id="619" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/82/1_0_16_73_65_1_3200000_0_0_0.png",Viju TV 1000 HD
+http://tv.padarok.workers.dev/?ID=619
+#EXTINF:-1 tvg-id="620" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/83/1_0_16_71_65_1_3200000_0_0_0.png",Viju TV1000 Русское кино HD
+http://tv.padarok.workers.dev/?ID=620
+#EXTINF:-1 tvg-id="621" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/263/263.png",Viasat Kino World  HD
+http://tv.padarok.workers.dev/?ID=621
+#EXTINF:-1 tvg-id="622" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/84/1_0_1_12D_C9_1_3200000_0_0_0.png",Viju+ Premiere HD
+http://tv.padarok.workers.dev/?ID=622
+#EXTINF:-1 tvg-id="623" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/85/1_0_1_12E_C9_1_3200000_0_0_0.png",Viju+ Megahit HD
+http://tv.padarok.workers.dev/?ID=623
+#EXTINF:-1 tvg-id="624" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/86/1_0_1_12F_C9_1_3200000_0_0_0.png",Viju+ Comedy HD
+http://tv.padarok.workers.dev/?ID=624
+#EXTINF:-1 tvg-id="625" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/87/1_0_1_138_C9_1_3200000_0_0_0.png",Viju+ Serial HD
+http://tv.padarok.workers.dev/?ID=625
 
 
