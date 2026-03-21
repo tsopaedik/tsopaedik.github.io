@@ -1,0 +1,63 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG_LITE" catchup="append" tvg-logo="http://epg.it999.ru/img2/2743.png" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
+
+#EXTINF:-1 , tvg-id="pervy" tvg-logo="http://epg.it999.ru/img2/146.png",Первый канал
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+#EXTINF:-1 , tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/711.png",Россия 1
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:-1 , tvg-id="rossija24" tvg-logo="http://epg.it999.ru/img2/1683.png",Россия-24
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+#EXTINF:-1 , tvg-id="ntv" tvg-logo="http://epg.it999.ru/img2/162.png",НТВ
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:-1 , tvg-id="rentv" tvg-logo="http://epg.it999.ru/img2/18.png",РЕН ТВ
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1 , tvg-id="zvezda" tvg-logo="http://epg.it999.ru/img2/405.png",Звезда
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:-1 , tvg-id="tnt" tvg-logo="http://epg.it999.ru/img2/1767.png",ТНТ
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1 , tvg-id="tnt-4" tvg-logo="http://epg.it999.ru/img2/1649.png",ТНТ4
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:-1 , tvg-id="sts" tvg-logo="http://epg.it999.ru/img2/79.png",СТС
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:-1 , tvg-id="sts-love" tvg-logo="http://epg.it999.ru/img2/1322.png",СТС Love
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:-1 , tvg-id="tv3-ru" tvg-logo="http://epg.it999.ru/img2/698.png",ТВ3
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:-1 , tvg-id="rossija-k" tvg-logo="http://epg.it999.ru/img2/187.png",Россия Культура
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:-1 , tvg-id="mir" tvg-logo="http://epg.it999.ru/img2/726.png",Мир
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+#EXTINF:-1 , tvg-id="domashny" tvg-logo="http://epg.it999.ru/img2/304.png",Домашний
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:-1 , tvg-id="piatnica" tvg-logo="http://epg.it999.ru/img2/1003.png",Пятница!
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1 , tvg-id="tvcentr" tvg-logo="http://epg.it999.ru/img2/649.png",ТВ Центр
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF:-1 , tvg-id="che" tvg-logo="http://epg.it999.ru/img2/1598.png",Че
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF:-1 , tvg-id="5kanal-ru" tvg-logo="http://epg.it999.ru/img2/3030.png",Пятый канал
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:-1 , tvg-id="otr" tvg-logo="http://epg.it999.ru/img2/1000.png",ОТР
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF:-1 , tvg-id="yu" tvg-logo="http://epg.it999.ru/img2/898.png",Ю
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+
