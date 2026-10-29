@@ -61,5 +61,5 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTINF:-1 , tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Первый канал +6.png", Первый канал (+6)
-EXTVLCOPT:http-user-agent=Mozilla 5.0
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
